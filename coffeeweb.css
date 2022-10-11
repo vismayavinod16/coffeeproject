@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&family=Passions+Conflict&family=Poppins:wght@100&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.coffee{
+    height: 90vh;
+    width: 100%;
+background-image: url("./images/coofeewall.webp");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 78px;
+
+}
+
+.nav-c2{
+    color: white;
+}
+.m2 a{
+    color: white;
+    margin-left: 25px;
+    font-size: 20px;
+
+}
+span{
+    color: chocolate;
+}
+.c8{
+    color: white;
+    margin-top: 156px;
+    font-size: 100px;
+    padding-left: 30px;
+    font-family: 'Dancing Script', cursive;
+    
+}
+.m4{
+    font-size: 20px;
+color: white;
+padding-left: 30px;
+margin-top: 20px;
+}
+button{
+    height: 31px;
+    width: 125px;
+    margin-left: 30px;
+    background-color:chocolate;
+    border-radius: 20px;
+    color: white;
+}
+button:hover{
+ background-color: white;
+ color: chocolate;
+}
+.page2{
+    background-color: black;
+    height: 800px;
+    width: 100%;
+}
+.b2{
+    height: 350px;
+    width: 250px;
+    margin-top: 100px;
+    margin-left: 150px;
+    border-radius: 10px;
+    opacity: 0.5;
+
+}
+.b3{
+    height: 400px;
+    width: 350px;
+    margin-top: 50px;
+    margin-left: 31px;
+    border-radius: 10px;
+    opacity: 0.5;
+}
+.b5{
+    height: 200px;
+    width: 400px;
+    margin-left: 200px;
+    border-radius: 10px;
+    opacity: 0.5;
+}
+.b4{
+    color: white;
+    float: inline-end;
+    margin-right: 200px;
+    margin-top: 175px;
+    opacity: 0.5;
+}
+.b6{
+    font-size: 100px;
+    color: white;
+    float: inline-end;
+    margin-right: 150px;
+    margin-top: -266px;
+
+}
+.b7{
+    color: white;
+    font-size: 25px;
+    float: inline-end;
+    margin-top: -151px;
+    margin-right: 164px;
+}
+.b8{
+    height: 50px;
+    width: 150px;
+    float: right;
+    margin-right: 344px;
+}
